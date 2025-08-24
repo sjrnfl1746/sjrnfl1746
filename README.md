@@ -11,6 +11,8 @@
   풀스택 개발자를 목표로 성장 중이며, 사용자 친화적인 웹 서비스를 만들어 세상을 편리하게 하고 싶습니다.
 </p>
 
+---
+
 ## 🛠 Tech Stack
 ### ⌨️ Languages & Tools
 <p align="center">
