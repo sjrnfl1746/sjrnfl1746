@@ -6,6 +6,8 @@
   👋 Hi, I'm Lee jae uk
 </h1>
 
+Backend developer & Spring Boot enthusiast
+
 ## 🚀 About Me
 - 🌱 I’m learning Spring Boot & MyBatis
 - 💻 Making a restaurant app
