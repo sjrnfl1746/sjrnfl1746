@@ -13,6 +13,16 @@ Backend developer & Spring Boot enthusiast
 - 💻 Making a restaurant app
 - 📊 Interested in backend development
 
+## 🛠 Tech Stack
+- Java, Spring Boot, MyBatis
+- HTML, CSS, Thymeleaf
+- MySQL, MariaDB
+- Git, GitHub
+
+## 📫 Contact
+- Email: sjrnfl1746@gmail.com
+- GitHub: [sjrnfl1746](https://github.com/sjrnfl1746)
+
 <!--
 **sjrnfl1746/sjrnfl1746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
