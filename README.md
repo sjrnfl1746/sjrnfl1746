@@ -11,16 +11,16 @@
   풀스택 개발자를 목표로 성장 중이며, 사용자 친화적인 웹 서비스를 만들어 세상을 편리하게 하고 싶습니다.
 </p>
 
-## 🚀 About Me
-- 🌱 I’m learning Spring Boot & MyBatis
-- 💻 Making a restaurant app
-- 📊 Interested in backend development
-
 ## 🛠 Tech Stack
-- Java, Spring Boot, MyBatis
-- HTML, CSS, Thymeleaf
-- MySQL, MariaDB
-- Git, GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ## 📫 Contact
 - Email: sjrnfl1746@gmail.com
