@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sjrnfl1746&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 <h1 align="center">
   👋 Hi, I'm Lee jae uk
 </h1>
-
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjrnfl1746%2Fsjrnfl1746&count_bg=%2379C83D&title_bg=%23555555&icon=github&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
 ## 🚀 About Me
 - 🌱 I’m learning Spring Boot & MyBatis
