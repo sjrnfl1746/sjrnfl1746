@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
+---
+
 ## 📫 Contact
 - Email: sjrnfl1746@gmail.com
 - GitHub: [sjrnfl1746](https://github.com/sjrnfl1746)
