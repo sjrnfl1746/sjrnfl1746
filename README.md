@@ -40,6 +40,14 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sjrnfl1746&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjrnfl1746&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+---
+
 ## 📫 Contact
 - Email: sjrnfl1746@gmail.com
 - GitHub: [sjrnfl1746](https://github.com/sjrnfl1746)
