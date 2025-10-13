@@ -21,7 +21,8 @@
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABHNCSVQICAgIfAhkiAAAATtJREFUaEPtmEEKwzAQRB+JXj1Hx0GnoF9u6BL8vBClCVYyZLqdbHxu6AzM+2TEkDMM2DJkikAZgOeQmSwF3gL1B4AVSjbXh3kslf0p0YJOJDkAf8BccgtGgAuGA4DCHuJTVeSdzAG8BVcAjdvwU8A1YhhAGcCAGMDqjZz9mUEEs3KnRB7d1oXxCaKqY8Hra0a+ivEdyAj7B0LKyygS6Lo0NgB8cGE+ADYHjVJMA4e5dz8AbgDceq2OSwcBAKjCgQhV7Df5v9+kaT8FoN1k6wlOHOCjXBtghQmKkqG1pLqGkXxBDwbK1KDlK8EWQQCzgOmb/YI2FA6V4qmf9ZbpLZ1Ul8aCw8d03cMEAAAAASUVORK5CYII=&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-FF6F00?style=for-the-badge&logo=spring&logoColor=white" />
 
   <!-- Frontend -->
