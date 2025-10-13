@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=sjrnfl1746&label=Visitors&color=0e75b6&style=flat" alt="visitors" />
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub:\)&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=75)
 
 <h1 align="center">
   👋 Hi, I'm Lee jae uk
