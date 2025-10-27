@@ -58,6 +58,7 @@
 ## 📫 Contact
 - Email: sjrnfl1746@gmail.com
 - GitHub: [sjrnfl1746](https://github.com/sjrnfl1746)
+- LinkedIn: https://www.linkedin.com/in/jaeuk-lee-a971b9395/
 
 ---
 
