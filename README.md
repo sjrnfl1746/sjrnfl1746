@@ -51,9 +51,12 @@
 
 ## GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sjrnfl1746&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjrnfl1746&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sjrnfl1746&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjrnfl1746&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<br>
 
 
 ## Contact
