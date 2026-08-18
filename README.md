@@ -9,11 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=sjrnfl1746&label=Visitors&color=0e75b6&style=flat" alt="visitors" />
 </p>
 
----
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 🔙 Backend
+### Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -21,9 +20,8 @@
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
----
 
-### 🎨 Frontend (Experience)
+### Frontend (Experience)
 <p align="center">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,17 +32,15 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
----
 
-### 🗄 Database
+### Database
 <p align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
 
-### ⚙️ Tools & Collaboration
+### Tools & Collaboration
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -52,9 +48,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
----
 
-## 📊 GitHub Stats
+## GitHub Stats
 
   <img src="https://github-readme-stats.vercel.app/api?username=sjrnfl1746&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
@@ -62,14 +57,14 @@
 
 ---
 
-## 📫 Contact
+## Contact
 - Email: sjrnfl1746@gmail.com
 - GitHub: [sjrnfl1746](https://github.com/sjrnfl1746)
 - LinkedIn: https://www.linkedin.com/in/jaeuk-lee-a971b9395/
 
 ---
 
-## 📌 Portfolio & Links
+## Portfolio & Links
 - 🌐 [Portfolio Website][(https://portfolio-bay-nine-98.vercel.app/)](https://jaeuklee-portfolio.vercel.app/)
 <!--
 **sjrnfl1746/sjrnfl1746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
