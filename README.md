@@ -55,14 +55,12 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjrnfl1746&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 
----
 
 ## Contact
 - Email: sjrnfl1746@gmail.com
 - GitHub: [sjrnfl1746](https://github.com/sjrnfl1746)
 - LinkedIn: https://www.linkedin.com/in/jaeuk-lee-a971b9395/
 
----
 
 ## Portfolio & Links
 - 🌐 [Portfolio Website][(https://portfolio-bay-nine-98.vercel.app/)](https://jaeuklee-portfolio.vercel.app/)
