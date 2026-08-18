@@ -4,13 +4,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=LEE%20JAE%20UK&fontSize=55&fontAlign=50&fontAlignY=50&desc=FULL-STACK%20DEVELOPER&descSize=16&descAlign=56&descAlignY=65" />
 
-<h1 align="center">
-  👋 Hi, I'm Lee jae uk
-</h1>
-
 <p align="center">
-  안녕하세요! 풀스택 개발자 이재욱입니다.<br>
-  풀스택 개발자를 목표로 성장 중이며, 사용자 친화적인 웹 서비스를 만들어 세상을 편리하게 하고 싶습니다.
+  Aspiring Full-Stack Developer based in Daegu, South Korea.<br>
+  I build user-friendly web applications with Spring Boot and React.<br>
+  I'm passionate about continuous learning and turning ideas into meaningful digital experiences.
 </p>
 
 ---
