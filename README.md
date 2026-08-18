@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=sjrnfl1746&label=Visitors&color=0e75b6&style=flat" alt="visitors" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=LEE%20JAE%20UK&fontSize=65&fontAlign=50&fontAlignY=50&desc=FULL-STACK%20DEVELOPER&descSize=16&descAlign=65&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=LEE%20JAE%20UK&fontSize=65&fontAlign=50&fontAlignY=50&desc=FULL-STACK%20DEVELOPER&descSize=16&descAlign=60&descAlignY=65" />
 
 <h1 align="center">
   👋 Hi, I'm Lee jae uk
