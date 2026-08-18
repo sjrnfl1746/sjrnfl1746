@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=LEE%20JAE%20UK&fontSize=55&fontAlign=50&fontAlignY=50&desc=FULL-STACK%20DEVELOPER&descSize=16&descAlign=56&descAlignY=65" />
 
 <p align="center">
-  Aspiring Full-Stack Developer based in Daegu, South Korea.<br>
+  <strong>Aspiring Full-Stack Developer based in Daegu, South Korea.</strong><br>
   Building reliable backends and intuitive user experiences with Spring Boot and React.
 </p>
 
