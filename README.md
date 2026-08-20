@@ -68,30 +68,27 @@
 
 <br>
 
+
 ## Contact
 
-<p align="center">
-  <a href="mailto:sjrnfl1746@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sjrnfl1746" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jaeuk-lee-a971b9395/" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=gmail" width="20" align="center" alt="Email" />
+  <strong>Email:</strong>
+  <a href="mailto:sjrnfl1746@gmail.com">sjrnfl1746@gmail.com</a>
 </p>
 
-## Contact
-- Email: sjrnfl1746@gmail.com
-- GitHub: [sjrnfl1746](https://github.com/sjrnfl1746)
-- LinkedIn: https://www.linkedin.com/in/jaeuk-lee-a971b9395/
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" width="20" align="center" alt="Portfolio" />
+  <strong>Portfolio:</strong>
+  <a href="https://jaeuklee-portfolio.vercel.app/">jaeuklee-portfolio.vercel.app</a>
+</p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="20" align="center" alt="LinkedIn" />
+  <strong>LinkedIn:</strong>
+  <a href="https://www.linkedin.com/in/jaeuk-lee-a971b9395/">Jaeuk Lee</a>
+</p>
 
-## Portfolio & Links
-- 🌐 [Portfolio Website][(https://portfolio-bay-nine-98.vercel.app/)](https://jaeuklee-portfolio.vercel.app/)
 <!--
 **sjrnfl1746/sjrnfl1746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
