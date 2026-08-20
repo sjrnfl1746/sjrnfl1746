@@ -56,6 +56,15 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjrnfl1746&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=sjrnfl1746&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
+       alt="GitHub stats" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjrnfl1746&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"
+       alt="Most used languages" />
+</p>
+
 <br>
 
 
