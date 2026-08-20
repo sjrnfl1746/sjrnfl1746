@@ -68,10 +68,20 @@
 
 <br>
 
-
 ## Contact
+
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=gmail)](sjrnfl1746@gmail.com)
+  <a href="mailto:sjrnfl1746@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sjrnfl1746" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jaeuk-lee-a971b9395/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ## Contact
