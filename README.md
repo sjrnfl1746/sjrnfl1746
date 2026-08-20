@@ -65,6 +65,32 @@
   />
 </p>
 
+## Tech Stack
+
+### Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" alt="Backend Skills" />
+</p>
+
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" alt="Frontend Skills" />
+</p>
+
+### Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database Skills" />
+</p>
+
+### Tools & Collaboration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,notion,idea,vscode&theme=dark" alt="Tools" />
+</p>
+
 <br>
 
 
