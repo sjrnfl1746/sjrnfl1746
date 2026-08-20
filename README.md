@@ -65,27 +65,6 @@
   />
 </p>
 
-## Contact
-
-<p align="center">
-  <a href="mailto:sjrnfl1746@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sjrnfl1746-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/sjrnfl1746">
-    <img src="https://img.shields.io/badge/GitHub-sjrnfl1746-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/jaeuk-lee-a971b9395/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jaeuk_Lee-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-## Portfolio & Links
-
-<p align="center">
-  <a href="https://jaeuklee-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
-  </a>
-</p>
 
 <br>
 
